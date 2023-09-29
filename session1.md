@@ -59,7 +59,7 @@ Verb is Relationship , Noun may be entity or attribute
 3. Derived Attribute(DB,Age)
 4. Multivalue (phone,Address)
 5. Complex(MultiValue,Composite) Address(country,city,Street) <br/>
-Eg: I have multi phone number . Each phone Number has (Zip code+Number). <br/>
+Eg: I have multi phone number . Each phone Number has (Zip code+Number).
 **Relationship**
 1. Degree of RelationShip (unary,binary,ternay)<br/>
  **NOTE** Rescursive (unary,Self) <br/>

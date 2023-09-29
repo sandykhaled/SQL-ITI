@@ -52,12 +52,22 @@ Verb is Relationship , Noun may be entity or attribute
 **Entity**
 1. Weak Entity : child will disappaer when a parent disappear
 2. Strong Entity : Parent <br/>
-**Note**Weak Entity may be different from stsytem to other . Primary Key of Weak Entity is a partial key <br\>
+**Note**  Weak Entity may be different from stsytem to other . Primary Key of Weak Entity is a partial key <br/>
 **Attribute**
 1. Simple Attribute
 2. Composite Attribute (first name+last name)
 3. Derived Attribute(DB,Age)
 4. Multivalue (phone,Address)
-5. Complex(MultiValue,Composite) Address(country,city,Street)   
+5. Complex(MultiValue,Composite) Address(country,city,Street) <br/>
+Eg: I have multi phone number . Each phone Number has (Zip code+Number). <br/>
+**Relationship**
+1. Degree of RelationShip (unary,binary,ternay)
+ **NOTE** Rescursive (unary,Self) 
+2. Cardinality Constraint
+   1. one to one
+   2. many to one
+   3. one to may
+3. Participation Cardinality
+   
 
 

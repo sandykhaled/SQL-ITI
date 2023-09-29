@@ -17,8 +17,8 @@ user of DB = application programmer <br/>
 1- delimited File (10,ali,24) seprate between items by ',' <br/>
 2- Fixed Width File (fixed bit) <br/>
 
-# DisAdvantages : 
-1. diff Search 
+## DisAdvantages : 
+1- diff Search <br/>
 2- low Performance <br/>
 3- No relationship <br/>
 4- No DB Integrity <br/>
@@ -31,3 +31,6 @@ user of DB = application programmer <br/>
 11- Manual Backup & Store <br/>
 12- No Standard <br/>
 13- Diff Integration <br/>
+## DB System
+**Tables & Relationship**
+1. Meta Data (eg:foreign key) & Data (Values) <br/>

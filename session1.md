@@ -5,3 +5,5 @@ ERD (non-constant) => DB Designer <br/>
 Entity is an object Not table <br/>
 3-Mapping DB => DB Designer <br/>
 set of rules (constant) <br/>
+4- DB implementation <br/>
+RDBMS => tools (sql server, oracle, mysql ) <br/>

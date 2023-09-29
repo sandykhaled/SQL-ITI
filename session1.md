@@ -42,6 +42,6 @@ user of DB = application programmer <br/>
 DataBase : collection of related data
 DBMS : Software Package 
 DB System : DB+DBMS
-**NOTE**
+<br/> **NOTE** <br/>
 property in relationship means property shared between 2 entities
 

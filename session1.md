@@ -75,8 +75,9 @@ Eg: I have multi phone number . Each phone Number has (Zip code+Number). <br/>
 **Note** weak entity must have total participation
 **Note**
 1. candiate key => number of primary key (any of them can be primary key)
-2. Composite primry key
-![alt ERD ]C:\Users\Sandy\Desktop\erd.png)
+2. Composite primry key <br/>
+
 
     
+![erd](https://github.com/sandykhaled/SQL-ITI/assets/120924159/66f9618e-ba48-48d2-8035-4959a4136732)
 

@@ -64,12 +64,19 @@ Eg: I have multi phone number . Each phone Number has (Zip code+Number). <br/>
 
 **Relationship**
 1. Degree of RelationShip (unary,binary,ternay)<br/>
- **NOTE** Rescursive (unary,Self) <br/>
+ **Note** Rescursive (unary,Self) <br/>
 2. Cardinality Constraint
    1. one to one
    2. many to one
    3. one to may
 3. Participation Cardinality
-   
+   1. total participation == must,one or more ,mandatory(2 lines)
+   2. partial participation == may,zero or more ,optional (one line)
+**Note** weak entity must have total participation
+**Note**
+1. candiate key => number of primary key (any of them can be primary key)
+2. Composite primry key
+![alt ERD ]C:\Users\Sandy\Desktop\erd.png)
 
+    
 

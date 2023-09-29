@@ -61,8 +61,8 @@ Verb is Relationship , Noun may be entity or attribute
 5. Complex(MultiValue,Composite) Address(country,city,Street) <br/>
 Eg: I have multi phone number . Each phone Number has (Zip code+Number). <br/>
 **Relationship**
-1. Degree of RelationShip (unary,binary,ternay)
- **NOTE** Rescursive (unary,Self) 
+1. Degree of RelationShip (unary,binary,ternay)<br/>
+ **NOTE** Rescursive (unary,Self) <br/>
 2. Cardinality Constraint
    1. one to one
    2. many to one

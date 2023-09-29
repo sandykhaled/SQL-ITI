@@ -37,3 +37,11 @@ user of DB = application programmer <br/>
 2. Primary Key (Unique , Not null)
 3. Colimn => DataType
 4. One Standard
+5. Centralized DB
+## Basic Definitions
+DataBase : collection of related data
+DBMS : Software Package 
+DB System : DB+DBMS
+**NOTE**
+property in relationship means property shared between 2 entities
+

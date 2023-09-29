@@ -44,4 +44,15 @@ DBMS : Software Package
 DB System : DB+DBMS
 <br/> **NOTE** <br/>
 property in relationship means property shared between 2 entities
+<br/>
+Relationship between 2 entites may be more than one relationship , but with different meaning
+<br/>
+Verb is Relationship , Noun may be entity or attribute
+## ERD
+**Entity**
+1. Weak Entity : child will disappaer when a parent disappear
+2. Strong Entity : Parent <\br>
+**Note**Weak Entity may be different from stsytem to other . Primary Key of Weak Entity is a partial key <br\>
+   
+
 

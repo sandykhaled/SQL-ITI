@@ -72,7 +72,9 @@ Eg: I have multi phone number . Each phone Number has (Zip code+Number). <br/>
 3. Participation Cardinality
    1. total participation == must,one or more ,mandatory(2 lines)
    2. partial participation == may,zero or more ,optional (one line)
+      
 **Note** weak entity must have total participation
+
 **Note**
 1. candiate key => number of primary key (any of them can be primary key)
 2. Composite primry key <br/>
